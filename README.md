@@ -1,17 +1,17 @@
 # Τεχνολογία Λογισμικού 
 
-[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main) για την παράδοση της εργασίας.
+[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://technologia-logismikou-uowm.github.io/sw.github.io/main) για την παράδοση της εργασίας.
 
 [Ανακοινώσεις και νέες απορίες ](https://github.com/Technologia-Logismikou-UoWM/Ergasia-2023-24/discussions) (https://eclass.uowm.gr/modules/announcements/?course=ICTE343)
 
-[Θέμα Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/dev)
+[Θέμα Εργασίας](https://technologia-logismikou-uowm.github.io/sw.github.io/dev)
 
-[Εργαλεία για την Υλοποίηση της Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/tools/)
+[Εργαλεία για την Υλοποίηση της Εργασίας](https://technologia-logismikou-uowm.github.io/sw.github.io/tools/)
 
-[Οδηγίες για δημιουργία, επεξεργασία, και αποστολή αναφοράς εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/guide)
+[Οδηγίες για δημιουργία, επεξεργασία, και αποστολή αναφοράς εργασίας](https://technologia-logismikou-uowm.github.io/sw.github.io/guide)
 
 >> Πατήστε το κουμπί `watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις και τις ανακοινώσεις.
->> [Όλα τα παραδοτέα βρίσκονται στο ίδιο directory](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/deliverables) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile)| 
+>> [Όλα τα παραδοτέα βρίσκονται στο ίδιο directory](https://technologia-logismikou-uowm.github.io/sw.github.io/deliverables) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile)| 
 
 | Εβδομάδα | Διδακτική Ενότητα|
 | --- | --- |
@@ -65,4 +65,4 @@
 
 
 
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, δημιουργήστε νέο φάκελο σύμφωνα με τις [οδηγίες](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/submit).
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, δημιουργήστε νέο φάκελο σύμφωνα με τις [οδηγίες](https://technologia-logismikou-uowm.github.io/sw.github.io/submit).
