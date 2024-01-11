@@ -1,12 +1,17 @@
 # Τεχνολογία Λογισμικού 
 
-[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες] (XXXX) για την παράδοση της εργασίας.
+[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/README.md) για την παράδοση της εργασίας.
 
-[Ανακοινώσεις και νέες απορίες ] (https://github.com/Technologia-Logismikou-UoWM/Ergasia-2023-24/discussions) (https://eclass.uowm.gr/modules/announcements/?course=ICTE343)
+[Ανακοινώσεις και νέες απορίες ](https://github.com/Technologia-Logismikou-UoWM/Ergasia-2023-24/discussions) (https://eclass.uowm.gr/modules/announcements/?course=ICTE343)
+
+[Θέμα Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/dev/index.md)
+
+[Εργαλεία για την Υλοποίηση της Εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/tools/index.md)
+
+[Οδηγίες για δημιουργία, επεξεργασία, και αποστολή αναφοράς εργασίας](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/guide/index.md)
 
 >> Πατήστε το κουμπί `watch` στην κορυφή αυτής της σελίδας για να καθορίσετε τις προτιμήσεις των ειδοποιήσεων, έτσι ώστε να λαμβάνετε τουλάχιστον τα νέα για τις συζητήσεις και τις ανακοινώσεις.
->>
->> >>[Όλα τα παραδοτέα βρίσκονται στην ίδια σελίδα της τελικής αναφοράς] με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile)|
+>> [Όλα τα παραδοτέα βρίσκονται στο ίδιο directory](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/deliverables/index.md) με τα προσωπικά στοιχεία σας (Όνομα, ΑΜ, github profile)| 
 
 | Εβδομάδα | Διδακτική Ενότητα|
 | --- | --- |
@@ -60,4 +65,4 @@
 
 
 
-Παρακαλώ **μην πειράξετε** το παρόν αρχείο, δημιουργήστε νέο φάκελο σύμφωνα με τις [οδηγίες](XXXX).
+Παρακαλώ **μην πειράξετε** το παρόν αρχείο, δημιουργήστε νέο φάκελο σύμφωνα με τις [οδηγίες](https://github.com/Technologia-Logismikou-UoWM/sw.github.io/blob/main/submit/index.md).
