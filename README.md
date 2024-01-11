@@ -1,6 +1,6 @@
 # Τεχνολογία Λογισμικού 
 
-[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://technologia-logismikou-uowm.github.io/sw.github.io/main) για την παράδοση της εργασίας.
+[Σημαντικές οδηγίες και απαντήσεις σε συχνές απορίες](https://technologia-logismikou-uowm.github.io/sw.github.io) για την παράδοση της εργασίας.
 
 [Ανακοινώσεις και νέες απορίες ](https://github.com/Technologia-Logismikou-UoWM/Ergasia-2023-24/discussions) (https://eclass.uowm.gr/modules/announcements/?course=ICTE343)
 
