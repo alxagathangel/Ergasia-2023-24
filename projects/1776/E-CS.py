@@ -123,7 +123,7 @@ class Scraper:
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'lxml')
 
-        for listing in soup.select('.vehicle-listing'):  # Adjust this selector based on the actual HTML structure
+        for listing in soup.select('.vehicle-listing'):
             name = listing.select_one('.vehicle-title').text.strip()
             price = float(listing.select_one('.vehicle-price').text.strip().replace('€', '').replace(',', ''))
             location = listing.select_one('.vehicle-location').text.strip()
@@ -135,7 +135,7 @@ class Scraper:
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'lxml')
 
-        for listing in soup.select('.product-item'):  # Adjust this selector based on the actual HTML structure
+        for listing in soup.select('.product-item'):
             name = listing.select_one('.product-title').text.strip()
             price = float(listing.select_one('.product-price').text.strip().replace('€', '').replace(',', ''))
             product = Product(name, price)
@@ -146,7 +146,7 @@ class Scraper:
         response = requests.get(url)
         soup = BeautifulSoup(response.text, 'lxml')
 
-        for listing in soup.select('.s-item'):  # Adjust this selector based on the actual HTML structure
+        for listing in soup.select('.s-item'):
             name = listing.select_one('.s-item__title').text.strip()
             price_text = listing.select_one('.s-item__price').text.strip()
             
